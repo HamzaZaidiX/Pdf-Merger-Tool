@@ -1,6 +1,6 @@
 # Pdf Merger Tool
 
-`Pdf Merger Tool` By `Node JS` in which you can `Merge two Pdf Files` 📂 into `one Pdf File` which you can Easily Download.
+`Pdf Merger Tool` By `Node JS` in which you can `Merge two Pdf Files` 📂 into `one Pdf File` which you can Easily `Download a Single PDF file`. 👍🐱‍🏍
 
 ## Materials Used:
 
